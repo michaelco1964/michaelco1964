@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: ""
+          feed_list: "https://github.com/michaelco1964/michaels-page/tree/main/_posts"
