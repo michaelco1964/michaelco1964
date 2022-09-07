@@ -137,6 +137,9 @@ My knowledge of the following ranges from 'will use in the future' to 'have used
 
 ### :writing_hand: Blog Posts :
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div id="badges" align="center">
