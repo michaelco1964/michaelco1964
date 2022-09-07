@@ -21,7 +21,7 @@ During my career, my passion turned to programming; I sought every opportunity t
 
 If you find yourself humored, perplexed or just plain curious by what you see or read herein, you can reach me by dialing 0>>
     [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ostertag-44b534249/)
-    <<23-1/2 out of 24 hours (which are not necessarily in a row.
+    <<23-1/2 out of 24 hours (which are not necessarily in a row).
 
 These GitHub users [![Github](https://img.shields.io/github/followers/michaelco1964?label=Follow&style=social)](https://github.com/michaelco1964) me; the remainder do not for their own reasons.
 
