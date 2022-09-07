@@ -1,8 +1,7 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
 
 jobs:
@@ -14,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 4
-          feed_list: "https://github.com/michaelco1964/michaels-page/tree/main/_posts"
+          feed_list: "https://github.com/michaelco1964/michaels-page/tree/main/_posts/"
