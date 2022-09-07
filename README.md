@@ -130,6 +130,7 @@ My knowledge of the following ranges from 'will use in the future' to 'have used
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelco1964&theme=dark&background=000000)](https://git.io/streak-stats)
+![michaelco1964 stats](https://github-readme-stats.vercel.app/api?username=michaelco1964&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelco1964&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
